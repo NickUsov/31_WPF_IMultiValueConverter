@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\bin\Debug\31_WPF_IMultiValueConverter.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\bin\Debug\31_WPF_IMultiValueConverter.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\bin\Debug\31_WPF_IMultiValueConverter.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\_31_WPF_IMultiValueConverter.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\home\07\31\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\31_WPF_IMultiValueConverter\obj\Debug\31_WPF_IMultiValueConverter.pdb
